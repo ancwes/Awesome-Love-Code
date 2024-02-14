@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background: #ffc0cb;
-	font-size: 20px;
+	font-size: 15px;
 	font-family: '微软雅黑', '宋体', sans-serif;
 	color: #000000;
 	overflow: auto
@@ -27,9 +27,9 @@ a {
 
 #text {
 	width: 400px;
-	height: 525px;
-	left: 60px;
-	top: 80px;
+	height: 625px;
+	left: 30px;
+	top: 20px;
 	position: absolute;
 }
 
