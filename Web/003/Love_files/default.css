@@ -41,7 +41,7 @@ a {
 #clock-box {
 	position: absolute;
 	left: 60px;
-	top: 550px;
+	top: 750px;
 	font-size: 28px;
 	display: none;
 }
@@ -61,8 +61,8 @@ a {
 
 #canvas {
 	margin: 0 auto;
-	width: 1200px;
-	height: 980px;
+	width: 900px;
+	height: 780px;
 }
 
 #error {
