@@ -20,8 +20,8 @@ a {
 #wrap {
 	position: relative;
 	margin: 0 auto;
-	width: 900px;
-	height: 780px;
+	width: 1100px;
+	height: 680px;
 	margin-top: 10px;
 }
 
@@ -61,8 +61,8 @@ a {
 
 #canvas {
 	margin: 0 auto;
-	width: 900px;
-	height: 780px;
+	width: 1100px;
+	height: 680px;
 }
 
 #error {
