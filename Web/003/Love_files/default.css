@@ -26,8 +26,8 @@ a {
 }
 
 #text {
-	width: 550px;
-	height: 425px;
+	width: 400px;
+	height: 525px;
 	left: 60px;
 	top: 80px;
 	position: absolute;
@@ -41,7 +41,7 @@ a {
 #clock-box {
 	position: absolute;
 	left: 60px;
-	top: 750px;
+	top: 550px;
 	font-size: 28px;
 	display: none;
 }
